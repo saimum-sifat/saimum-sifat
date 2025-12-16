@@ -1,11 +1,10 @@
+Hi, there 👋
 
- Hi, there 👋
-
-I’m Saimum from Bangladesh, currently living in South Korea since March 2023
+I’m Saimum originally from Bangladesh, currently living in South Korea.
 
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about travelling
-- 📫 How to reach me: <a href="mdsaimum93@gmail.com">Email</a>
+- 📫 How to reach me: <a href="https://mdsaimum93@gmail.com">Email</a>
 - 😄 Pronouns: he/him
 <hr/>
 <footer>
