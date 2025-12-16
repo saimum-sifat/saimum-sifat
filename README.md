@@ -1,4 +1,5 @@
-Hi, there 👋
+
+ Hi, there 👋
 
 I’m Saimum from Bangladesh, currently living in South Korea since March 2023
 
@@ -6,7 +7,7 @@ I’m Saimum from Bangladesh, currently living in South Korea since March 2023
 - 💬 Ask me about travelling
 - 📫 How to reach me: mdsaimum93@gmail.com
 - 😄 Pronouns: he/him
--  <hr/>
+<hr/>
 <footer>
   <a href="https://saimum-sifat.github.io/my-resume/"> My resume</a> |
   <a href="https://www.linkedin.com/in/saimumsifat/">Linkedin</a> |
@@ -15,3 +16,4 @@ I’m Saimum from Bangladesh, currently living in South Korea since March 2023
   <a href="https://www.instagram.com/saimumsifat/">Instagram</a>
 </footer>
 
+Hi
