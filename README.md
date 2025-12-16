@@ -1,11 +1,12 @@
-Hi, there 👋
+##Hi, there 👋
 
 I’m Saimum originally from Bangladesh, currently living in South Korea.
 
-- 🌱 I’m currently learning Full Stack Web Development
-- 💬 Ask me about travelling
-- 📫 How to reach me: <a href="mailto:mdsaimum93@gmail.com">Email</a> or <a href="https://wa.me/8801748963037">WhatsApp</a>
-- 😄 Pronouns: he/him
+- 💻 Skills: HTML, CSS, JavaScript
+- 🌱 Currently learning Full Stack Web Development
+- 💬 Interested in Technology, Research and Travelling
+- 📫 Contact me: <a href="mailto:mdsaimum93@gmail.com">Email</a> or <a href="https://wa.me/8801748963037">WhatsApp</a>
+<br/>
 <hr/>
 <footer>
   <a href="https://saimum-sifat.github.io/my-resume/"> My resume</a> |
