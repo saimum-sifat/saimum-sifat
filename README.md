@@ -10,7 +10,7 @@ I’m Saimum originally from Bangladesh, currently living in South Korea.
 <hr/>
 <p align="center">
       <a href="https://www.linkedin.com/in/saimumsifat/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" hspace="4"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" hspace="2"/>
       </a>
       <a href="https://www.facebook.com/saimumsifat">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="28" hspace="5"/>
