@@ -5,7 +5,7 @@ I’m Saimum originally from Bangladesh, currently living in South Korea.
 - 💻 Skills: HTML, CSS
 - 🌱 Currently learning JavaScript
 - 💬 Interested in Technology, Research and Travelling
-- 📫 Contact me: <a href="mailto:mdsaimum93@gmail.com">Email</a> or <a href="https://wa.me/8801748963037">WhatsApp</a>
+- 📫 Contact me: mdsaimum93@gmail.com
 
 <hr/>
 <div width="100%">
