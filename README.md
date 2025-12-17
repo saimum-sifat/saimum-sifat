@@ -13,5 +13,5 @@ I’m Saimum originally from Bangladesh, currently living in South Korea.
   <a href="https://www.linkedin.com/in/saimumsifat/">Linkedin</a> |
   <a href="https://www.facebook.com/saimumsifat">Facebook</a> |
   <a href="https://x.com/saimumsifat">Twitter</a> |
-  <a text-align: right href="https://www.instagram.com/saimumsifat/">Instagram</a>
+  <a style="text-align: right;" href="https://www.instagram.com/saimumsifat/">Instagram</a>
 </footer>
