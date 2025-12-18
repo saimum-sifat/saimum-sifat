@@ -4,23 +4,12 @@ I’m Saimum originally from Bangladesh, currently living in South Korea.
 
 - 💻 Skills: HTML, CSS
 - 🌱 Currently learning JavaScript
-- 👯 I’m looking to collaborate on Fronend Web Development Project
+- 👯 I’m looking to collaborate on Frontend Web Development Project
 - 💬 Interested in Technology, Research and Travelling
 - 📫 Contact me: mdsaimum93@gmail.com
 
 <hr/>
-<table width="100%" border="transparent">
-  <tr>
-    <td align="left">My resume</td>
-    <td align="right">
-          <a href="https://www.linkedin.com/in/saimumsifat/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
-    </td>
-  </tr>
-</table>
-
-
-
-<p display="inline-block" align="right" >
+<p align="center" >
       <a href="https://www.linkedin.com/in/saimumsifat/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
       <a href="https://www.facebook.com/saimumsifat"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/></a>
       <a href="https://x.com/saimumsifat"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20"/></a>
