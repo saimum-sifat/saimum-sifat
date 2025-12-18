@@ -9,7 +9,7 @@ I’m Saimum originally from Bangladesh, currently living in South Korea.
 - 📫 Contact me: mdsaimum93@gmail.com
 
 <hr/>
-<table width="100%">
+<table width="100%" border="transparent">
   <tr>
     <td align="left">My resume</td>
     <td align="right">
