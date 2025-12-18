@@ -9,9 +9,17 @@ I’m Saimum originally from Bangladesh, currently living in South Korea.
 - 📫 Contact me: mdsaimum93@gmail.com
 
 <hr/>
-<p display="inline-block" align="left">
-      My resume
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">My resume</td>
+    <td align="right">
+          <a href="https://www.linkedin.com/in/saimumsifat/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    </td>
+  </tr>
+</table>
+
+
+
 <p display="inline-block" align="right" >
       <a href="https://www.linkedin.com/in/saimumsifat/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
       <a href="https://www.facebook.com/saimumsifat"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/></a>
