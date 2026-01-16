@@ -1,6 +1,6 @@
 ## Hi, there 👋
 
-I’m Saimum originally from Bangladesh, currently living in South Korea.
+I’m Saimum from Bangladesh, currently living in South Korea.
 
 - 💻 Skills: HTML, CSS
 - 🌱 Currently learning JavaScript
